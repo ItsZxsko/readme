@@ -14,6 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nowze&show_icons=true&theme=merko&title_color=ee00ff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="nowze" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nowze&show_icons=true&theme=merko&title_color=ee00ff&text_color=ffffff&hide_border=true&locale=en" alt="nowze" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nowze&theme=dark" alt="nowze" /></p>
